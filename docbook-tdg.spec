@@ -18,7 +18,7 @@ guide, written by Norman Walsh and Leonard Muellner and published by
 O'Reilly & Associates, Inc., is the official documentation for
 DocBook.
 
-%description
+%description -l pl
 Ten pakiet zawiera publikacjê "DocBook: The Definitive Guide"
 (Rozstrzygaj±cy przewodnik po DocBooku). Podrêcznik zosta³ napisany
 przez Normana Walsha oraz Leonarda Muellnera i wydany przez O'Reilly &
