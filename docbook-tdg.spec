@@ -1,4 +1,5 @@
-Summary:	DocBook The Definitive Guide.
+Summary:	DocBook The Definitive Guide
+Summary(pl):	Rozstrzygaj±cy przewodnik (The Definitive Guide) po DocBook
 Name:		docbook-tdg
 Version:	2.0.8
 Release:	0.Alpha.1
@@ -14,6 +15,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 DocBook The Definitive Guide.
 
+%description
+Rozstrzygaj±cy przewodnik (The Definitive Guide) po DocBook.
+
 %prep
 %setup -q -n tdg
 
@@ -23,7 +27,6 @@ install -d $RPM_BUILD_ROOT
 
 %clean
 rm -rf $RPM_BUILD_ROOT
-
 
 %files
 %defattr(644,root,root,755)
