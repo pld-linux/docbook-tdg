@@ -6,7 +6,7 @@ License:	?
 Group:		Applications/Text
 Source0:	http://www.docbook.org/tdg/en/tdg-en-html-%{version}.zip
 # Source0-md5:	cbf35fa7927bfe4850af6da26dac995e
-URL:		http://www.docbook.org
+URL:		http://www.docbook.org/
 BuildRequires:	unzip
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
