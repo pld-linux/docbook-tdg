@@ -1,12 +1,12 @@
 Summary:	DocBook The Definitive Guide
 Summary(pl):	Rozstrzygaj±cy przewodnik (The Definitive Guide) po DocBooku
 Name:		docbook-tdg
-Version:	2.0.8
+Version:	2.0.9
 Release:	0.Alpha.1
 License:	FDL
 Group:		Applications/Text
 Source0:	http://www.docbook.org/tdg/en/tdg-en-html-%{version}.zip
-# Source0-md5:	cbf35fa7927bfe4850af6da26dac995e
+# Source0-md5:	4de8c6cb42e891cf81955896f8c2c358
 URL:		http://www.docbook.org/
 BuildRequires:	unzip
 BuildArch:	noarch
