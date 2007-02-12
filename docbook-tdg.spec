@@ -1,5 +1,5 @@
 Summary:	DocBook The Definitive Guide
-Summary(pl.UTF-8):   Rozstrzygający przewodnik (The Definitive Guide) po DocBooku
+Summary(pl.UTF-8):	Rozstrzygający przewodnik (The Definitive Guide) po DocBooku
 Name:		docbook-tdg
 Version:	2.0.15
 Release:	1
