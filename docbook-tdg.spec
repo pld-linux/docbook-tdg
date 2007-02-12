@@ -1,5 +1,5 @@
 Summary:	DocBook The Definitive Guide
-Summary(pl):	Rozstrzygaj±cy przewodnik (The Definitive Guide) po DocBooku
+Summary(pl.UTF-8):   RozstrzygajÄ…cy przewodnik (The Definitive Guide) po DocBooku
 Name:		docbook-tdg
 Version:	2.0.15
 Release:	1
@@ -18,9 +18,9 @@ guide, written by Norman Walsh and Leonard Muellner and published by
 O'Reilly & Associates, Inc., is the official documentation for
 DocBook.
 
-%description -l pl
-Ten pakiet zawiera publikacjê "DocBook: The Definitive Guide"
-(Rozstrzygaj±cy przewodnik po DocBooku). Podrêcznik zosta³ napisany
+%description -l pl.UTF-8
+Ten pakiet zawiera publikacjÄ™ "DocBook: The Definitive Guide"
+(RozstrzygajÄ…cy przewodnik po DocBooku). PodrÄ™cznik zostaÅ‚ napisany
 przez Normana Walsha oraz Leonarda Muellnera i wydany przez O'Reilly &
 Associates, Inc. Jest to oficjalna dokumentacja dla DocBooka.
 
