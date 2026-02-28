@@ -2,7 +2,7 @@ Summary:	DocBook The Definitive Guide
 Summary(pl.UTF-8):	Rozstrzygający przewodnik (The Definitive Guide) po DocBooku
 Name:		docbook-tdg
 Version:	2.0.17
-Release:	1
+Release:	2
 License:	FDL v1.1+
 Group:		Applications/Text
 Source0:	http://www.docbook.org/tdg/en/tdg-en-html-%{version}.zip
